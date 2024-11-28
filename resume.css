@@ -233,8 +233,8 @@ canvas {
 
 @media only screen and (max-width: 600px) {
   .main .main_title {
-    padding-top: 18vh;
-    line-height: 8vh;
+    padding-top: 16vh;
+    line-height: 7.5vh;
     letter-spacing: -0.1px;
   }
   .main .main_title .small_text {
@@ -249,12 +249,12 @@ canvas {
   .main .sub_title {
     font-size: 16px;
     line-height: 25px;
-    padding-top: 5vw;
+    padding-top: 3vw;
   }
   .main #scroll_move {
     font-size: 16px;
     line-height: 25px;
-    padding-top: 18vw;
+    padding-top: 14vw;
   }
   .container {
     display: block;
@@ -304,11 +304,11 @@ canvas {
     display: block;
   }
   .bottom .information .name {
-    padding-bottom: 14px;
+    padding-bottom: 20px;
   }
   .bottom .information .name .name_title {
-    font-size: 82px;
-    line-height: 100px;
+    font-size: 60px;
+    line-height: 80px;
   }
   .bottom .information .blank3 {
     padding: 7px;
