@@ -296,7 +296,7 @@ canvas {
     letter-spacing: -0.2px;
   }
   .bottom .pfd_down {
-    padding-bottom: 50px;
+    padding-bottom: 45px;
     font-size: 38px;
     line-height: 43px;
   }
@@ -304,7 +304,7 @@ canvas {
     display: block;
   }
   .bottom .information .name {
-    padding-bottom: 20px;
+    padding-bottom: 16px;
   }
   .bottom .information .name .name_title {
     font-size: 82px;
