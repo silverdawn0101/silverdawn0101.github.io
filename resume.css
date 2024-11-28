@@ -299,6 +299,7 @@ canvas {
     padding-bottom: 20px;
     font-size: 32px;
     line-height: 40px;
+    margin-botton: 60px;
   }
   .bottom .information {
     display: block;
@@ -309,7 +310,7 @@ canvas {
   .bottom .information .name .name_title {
     font-size: 68px;
     line-height: 80px;
-    padding-bottom: 20px
+    padding-bottom: 20px;
   }
   .bottom .information .blank3 {
     padding: 7px;
