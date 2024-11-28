@@ -308,6 +308,7 @@ canvas {
   }
   .bottom .information {
     display: block;
+    padding: 0 13% 13% 0;
   }
   .bottom .information .name {
     padding-bottom: 20px;
