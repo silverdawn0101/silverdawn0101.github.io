@@ -295,6 +295,11 @@ canvas {
     line-height: 20px;
     letter-spacing: -0.2px;
   }
+
+  .bottom {
+  height: 600px;
+  }
+  
   .bottom .pfd_down {
     padding-bottom: 20px;
     font-size: 32px;
