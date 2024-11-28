@@ -233,7 +233,7 @@ canvas {
 
 @media only screen and (max-width: 600px) {
   .main .main_title {
-    padding-top: 22vh;
+    padding-top: 18vh;
     line-height: 8vh;
     letter-spacing: -0.1px;
   }
@@ -254,7 +254,7 @@ canvas {
   .main #scroll_move {
     font-size: 16px;
     line-height: 25px;
-    padding-top: 22vw;
+    padding-top: 18vw;
   }
   .container {
     display: block;
