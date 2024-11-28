@@ -308,7 +308,6 @@ canvas {
   }
   .bottom .information {
     display: block;
-
   }
   .bottom .information .name {
     padding-bottom: 50px;
@@ -322,7 +321,7 @@ canvas {
   }
 
   .bottom .information .infor_section .infor_contact .infor_con_copy {
-  padding: 10px;
+    padding: 10px;
   }
   
   .bottom .information .infor_title {
