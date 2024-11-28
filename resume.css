@@ -310,7 +310,6 @@ canvas {
   .bottom .information .name .name_title {
     font-size: 68px;
     line-height: 80px;
-    padding-bottom: 20px;
   }
   .bottom .information .blank3 {
     padding: 7px;
@@ -318,9 +317,11 @@ canvas {
   .bottom .information .infor_title {
     font-size: 12px;
     line-height: 20px;
+    padding-bottom: 20px;
   }
   .bottom .information .infor_copy {
     font-size: 12px;
     line-height: 20px;
+    padding-bottom: 20px;
   }
 }/*# sourceMappingURL=resume.css.map */
