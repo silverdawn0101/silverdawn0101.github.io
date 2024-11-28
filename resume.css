@@ -316,12 +316,13 @@ canvas {
     font-size: 68px;
     line-height: 80px;
   }
-  .bottom .information .blank3 {
-    padding: 7px;
+
+  .bottom .information .infor_section .infor_contact .infor_con_copy .blank3{
+    padding: 5px;
   }
 
   .bottom .information .infor_section .infor_contact .infor_con_copy {
-    padding: 10px;
+    padding-bottom:30px
   }
   
   .bottom .information .infor_title {
