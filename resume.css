@@ -296,15 +296,15 @@ canvas {
     letter-spacing: -0.2px;
   }
   .bottom .pfd_down {
-    padding-bottom: 45px;
-    font-size: 38px;
-    line-height: 43px;
+    padding-bottom: 50px;
+    font-size: 32px;
+    line-height: 40px;
   }
   .bottom .information {
     display: block;
   }
   .bottom .information .name {
-    padding-bottom: 16px;
+    padding-bottom: 14px;
   }
   .bottom .information .name .name_title {
     font-size: 82px;
